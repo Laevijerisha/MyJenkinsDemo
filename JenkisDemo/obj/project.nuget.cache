@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PdvyccYyju0WRMbm28RLjuQG3AWd7+NqQ3IjDNzHb+KhF9YWe9f8jXm/uI3/xDMURM1f8xVJIwx3Pn1oQJRVqA==",
+  "dgSpecHash": "//oukM8ERzx7FQaidgSNQ2yet+KKwHYMDFzs0p636HC01YgM2btKjLA+YbfFShyMV74adhqiORBHTP4Kawe4Aw==",
   "success": true,
   "projectFilePath": "D:\\Devops\\JenkisDemo\\JenkisDemo\\JenkisDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
